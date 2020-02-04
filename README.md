@@ -1,3 +1,2 @@
-# firsttfnnetwork
-Code will automatically download the tensorflow test data in the folder
-Path: /tmp
+# Digit Recognizer  
+Digit Recognizer model using Tensorflow and the MNIST Dataset. Made this for my introduction to Machine Learning and Tensorflow.
